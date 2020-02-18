@@ -1,0 +1,11 @@
+rt-mdk\timer.o: ../Middlewares/Third_Party/RT-Thread/src/timer.c
+rt-mdk\timer.o: ../Middlewares/Third_Party/RT-Thread//include/rtthread.h
+rt-mdk\timer.o: ../Inc/rtconfig.h
+rt-mdk\timer.o: .\RTE\_RT-MDK\RTE_Components.h
+rt-mdk\timer.o: ../Middlewares/Third_Party/RT-Thread//include/rtdebug.h
+rt-mdk\timer.o: ../Middlewares/Third_Party/RT-Thread//include/rtdef.h
+rt-mdk\timer.o: E:\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+rt-mdk\timer.o: ../Middlewares/Third_Party/RT-Thread//include/rtservice.h
+rt-mdk\timer.o: ../Middlewares/Third_Party/RT-Thread//include/rtm.h
+rt-mdk\timer.o: ../Middlewares/Third_Party/RT-Thread//include/rtthread.h
+rt-mdk\timer.o: ../Middlewares/Third_Party/RT-Thread//include/rthw.h

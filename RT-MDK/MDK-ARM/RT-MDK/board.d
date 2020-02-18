@@ -1,0 +1,12 @@
+rt-mdk\board.o: ../Middlewares/Third_Party/RT-Thread/bsp/board.c
+rt-mdk\board.o: E:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+rt-mdk\board.o: ../Middlewares/Third_Party/RT-Thread//include/rthw.h
+rt-mdk\board.o: ../Middlewares/Third_Party/RT-Thread//include/rtthread.h
+rt-mdk\board.o: ../Inc/rtconfig.h
+rt-mdk\board.o: .\RTE\_RT-MDK\RTE_Components.h
+rt-mdk\board.o: ../Middlewares/Third_Party/RT-Thread//include/rtdebug.h
+rt-mdk\board.o: ../Middlewares/Third_Party/RT-Thread//include/rtdef.h
+rt-mdk\board.o: E:\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+rt-mdk\board.o: ../Middlewares/Third_Party/RT-Thread//include/rtservice.h
+rt-mdk\board.o: ../Middlewares/Third_Party/RT-Thread//include/rtm.h
+rt-mdk\board.o: ../Middlewares/Third_Party/RT-Thread//include/rtthread.h
